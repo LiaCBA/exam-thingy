@@ -211,6 +211,9 @@ p {
 }
 /* button */
 
+.test {
+  margin-top: 41px;
+}
 button {
   border: none;
   outline: none;
@@ -225,6 +228,6 @@ button {
     rgba(47, 44, 233, 1) 100%
   );
   border-radius: 128px;
-  margin-top: 41px;
+  /* margin-top: 41px; */
   color: white;
 }

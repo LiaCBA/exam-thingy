@@ -211,13 +211,13 @@ p {
 }
 /* button */
 
-.test {
+.continue {
   margin-top: 41px;
 }
 button {
   border: none;
   outline: none;
-  font-weight: 700px;
+  font-weight: 700;
   font-size: 18px;
   width: 288px;
   height: 56px;
@@ -228,6 +228,5 @@ button {
     rgba(47, 44, 233, 1) 100%
   );
   border-radius: 128px;
-  /* margin-top: 41px; */
   color: white;
 }
